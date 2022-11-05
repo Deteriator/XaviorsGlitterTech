@@ -247,7 +247,7 @@
         </colorGenerator>
     </ThingDef>
 
-    <ThingDef ParentName="ApparelArmorPowerBase">
+    <ThingDef ParentName="ApparelBase">
         <defName>Apparel_NanoSkin</defName>
         <label>Fibre Skin Suit</label>
         <description>Thin nano technology skin. Not as durable as a full nano-suit, but compact enough fit under
@@ -319,7 +319,7 @@
         </colorGenerator>
     </ThingDef>
 
-    <ThingDef ParentName="ApparelArmorPowerBase">
+    <ThingDef ParentName="ApparelBase">
         <defName>Apparel_NanoSpeed</defName>
         <label>Speed Skin Suit</label>
         <description>Thin nano technology skin. Similar construction to the fibre suit, but weaved from reactive metal
